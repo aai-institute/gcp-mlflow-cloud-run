@@ -1,0 +1,4 @@
+mlflow==2.12.1
+scikit-learn
+pandas
+shap  # for model evaluation

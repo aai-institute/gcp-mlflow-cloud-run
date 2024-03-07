@@ -1,0 +1,7 @@
+name: gcp-mlflow-cloud-run
+runtime: nodejs
+description: Serverless MLflow in Google Cloud Run
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: gcp-typescript
